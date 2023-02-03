@@ -24,6 +24,9 @@
   ## Contributing
   There are currently no guidelines on how to contribute.
 
+  ## Video
+  https://drive.google.com/file/d/1_WjAvb4GHatYkEswqwoGJqFuaV3aGCIN/view
+
   ## Tests
   Go to the intergrated terminal in vs code. Run node index.js, and answer the questions to generate the README.
 
